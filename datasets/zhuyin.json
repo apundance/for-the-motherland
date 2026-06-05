@@ -1,0 +1,335 @@
+[
+  {
+    "symbol": "ㄅ",
+    "pronunciation": "buh",
+    "pinyin": "b",
+    "category": "initial",
+    "exampleCharacter": "爸",
+    "exampleMeaning": "father",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄆ",
+    "pronunciation": "puh",
+    "pinyin": "p",
+    "category": "initial",
+    "exampleCharacter": "怕",
+    "exampleMeaning": "afraid",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄇ",
+    "pronunciation": "muh",
+    "pinyin": "m",
+    "category": "initial",
+    "exampleCharacter": "媽",
+    "exampleMeaning": "mother",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄈ",
+    "pronunciation": "fuh",
+    "pinyin": "f",
+    "category": "initial",
+    "exampleCharacter": "N/A",
+    "exampleMeaning": "N/A",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄉ",
+    "pronunciation": "duh",
+    "pinyin": "d",
+    "category": "initial",
+    "exampleCharacter": "大",
+    "exampleMeaning": "big",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄊ",
+    "pronunciation": "tuh",
+    "pinyin": "t",
+    "category": "initial",
+    "exampleCharacter": "他",
+    "exampleMeaning": "he",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄋ",
+    "pronunciation": "nuh",
+    "pinyin": "n",
+    "category": "initial",
+    "exampleCharacter": "你",
+    "exampleMeaning": "you",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄌ",
+    "pronunciation": "luh",
+    "pinyin": "l",
+    "category": "initial",
+    "exampleCharacter": "了",
+    "exampleMeaning": "completed action particle",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄍ",
+    "pronunciation": "guh",
+    "pinyin": "g",
+    "category": "initial",
+    "exampleCharacter": "高",
+    "exampleMeaning": "high; tall",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄎ",
+    "pronunciation": "kuh",
+    "pinyin": "k",
+    "category": "initial",
+    "exampleCharacter": "可",
+    "exampleMeaning": "can; may",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄏ",
+    "pronunciation": "huh",
+    "pinyin": "h",
+    "category": "initial",
+    "exampleCharacter": "好",
+    "exampleMeaning": "good",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄐ",
+    "pronunciation": "ji",
+    "pinyin": "j",
+    "category": "initial",
+    "exampleCharacter": "家",
+    "exampleMeaning": "home; family",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄑ",
+    "pronunciation": "chi",
+    "pinyin": "q",
+    "category": "initial",
+    "exampleCharacter": "去",
+    "exampleMeaning": "to go",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄒ",
+    "pronunciation": "xi",
+    "pinyin": "x",
+    "category": "initial",
+    "exampleCharacter": "謝",
+    "exampleMeaning": "to thank",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄓ",
+    "pronunciation": "zh",
+    "pinyin": "zh",
+    "category": "initial",
+    "exampleCharacter": "知",
+    "exampleMeaning": "to know",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄔ",
+    "pronunciation": "ch",
+    "pinyin": "ch",
+    "category": "initial",
+    "exampleCharacter": "吃",
+    "exampleMeaning": "to eat",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄕ",
+    "pronunciation": "sh",
+    "pinyin": "sh",
+    "category": "initial",
+    "exampleCharacter": "是",
+    "exampleMeaning": "to be",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄖ",
+    "pronunciation": "ri",
+    "pinyin": "r",
+    "category": "initial",
+    "exampleCharacter": "日",
+    "exampleMeaning": "sun; day",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄗ",
+    "pronunciation": "zi",
+    "pinyin": "z",
+    "category": "initial",
+    "exampleCharacter": "字",
+    "exampleMeaning": "character; word",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄘ",
+    "pronunciation": "ci",
+    "pinyin": "c",
+    "category": "initial",
+    "exampleCharacter": "次",
+    "exampleMeaning": "time; occurrence",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄙ",
+    "pronunciation": "si",
+    "pinyin": "s",
+    "category": "initial",
+    "exampleCharacter": "四",
+    "exampleMeaning": "four",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄧ",
+    "pronunciation": "ee",
+    "pinyin": "i",
+    "category": "medial",
+    "exampleCharacter": "一",
+    "exampleMeaning": "one",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄨ",
+    "pronunciation": "oo",
+    "pinyin": "u",
+    "category": "medial",
+    "exampleCharacter": "五",
+    "exampleMeaning": "five",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄩ",
+    "pronunciation": "yu",
+    "pinyin": "ü",
+    "category": "medial",
+    "exampleCharacter": "魚",
+    "exampleMeaning": "fish",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄚ",
+    "pronunciation": "ah",
+    "pinyin": "a",
+    "category": "final",
+    "exampleCharacter": "阿",
+    "exampleMeaning": "prefix used in names",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄛ",
+    "pronunciation": "oh",
+    "pinyin": "o",
+    "category": "final",
+    "exampleCharacter": "喔",
+    "exampleMeaning": "oh",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄜ",
+    "pronunciation": "uh",
+    "pinyin": "e",
+    "category": "final",
+    "exampleCharacter": "鵝",
+    "exampleMeaning": "goose",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄝ",
+    "pronunciation": "eh",
+    "pinyin": "ê",
+    "category": "final",
+    "exampleCharacter": "N/A",
+    "exampleMeaning": "N/A",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄞ",
+    "pronunciation": "ai",
+    "pinyin": "ai",
+    "category": "final",
+    "exampleCharacter": "愛",
+    "exampleMeaning": "love",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄟ",
+    "pronunciation": "ay",
+    "pinyin": "ei",
+    "category": "final",
+    "exampleCharacter": "黑",
+    "exampleMeaning": "black",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄠ",
+    "pronunciation": "ow",
+    "pinyin": "ao",
+    "category": "final",
+    "exampleCharacter": "好",
+    "exampleMeaning": "good",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄡ",
+    "pronunciation": "oh",
+    "pinyin": "ou",
+    "category": "final",
+    "exampleCharacter": "口",
+    "exampleMeaning": "mouth",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄢ",
+    "pronunciation": "an",
+    "pinyin": "an",
+    "category": "final",
+    "exampleCharacter": "安",
+    "exampleMeaning": "peace",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄣ",
+    "pronunciation": "en",
+    "pinyin": "en",
+    "category": "final",
+    "exampleCharacter": "恩",
+    "exampleMeaning": "grace; kindness",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄤ",
+    "pronunciation": "ang",
+    "pinyin": "ang",
+    "category": "final",
+    "exampleCharacter": "忙",
+    "exampleMeaning": "busy",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄥ",
+    "pronunciation": "eng",
+    "pinyin": "eng",
+    "category": "final",
+    "exampleCharacter": "風",
+    "exampleMeaning": "wind",
+    "notes": ""
+  },
+  {
+    "symbol": "ㄦ",
+    "pronunciation": "er",
+    "pinyin": "er",
+    "category": "final",
+    "exampleCharacter": "兒",
+    "exampleMeaning": "child",
+    "notes": ""
+  }
+]

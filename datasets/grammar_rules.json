@@ -1,0 +1,114 @@
+[
+  {
+    "rule name": "Basic Chinese Word Order",
+    "rule": "Chinese usually follows Subject + Verb + Object (SVO).\nExample: 我吃飯 = I eat food."
+  },
+  {
+    "rule name": "Subject + Verb",
+    "rule": "Simple sentences can be just Subject + Verb.\nExample: 他笑 = He laughs."
+  },
+  {
+    "rule name": "No Verb Conjugation",
+    "rule": "Chinese verbs do not change form for person or tense.\nExample: 我吃 / 他吃 / 我昨天吃 / 我明天吃."
+  },
+  {
+    "rule name": "Making Yes/No Questions with 嗎",
+    "rule": "Add 嗎 at the end of a statement to form a yes/no question.\nExample: 你喜歡咖啡嗎？ = Do you like coffee?"
+  },
+  {
+    "rule name": "Using 呢",
+    "rule": "呢 is used to mean 'what about…?' or to return a question.\nExample: 我吃飯了，你呢？ = I’ve eaten, what about you?"
+  },
+  {
+    "rule name": "Question Word Position",
+    "rule": "Question words stay in the same position as the answer would be.\nExample: 你是誰？ = Who are you?"
+  },
+  {
+    "rule name": "Possession with 的",
+    "rule": "Use 的 to show possession.\nExample: 我的書 = my book"
+  },
+  {
+    "rule name": "Negation with 不",
+    "rule": "不 is placed before verbs or adjectives to negate present/future actions.\nExample: 我不去 = I am not going"
+  },
+  {
+    "rule name": "Negation with 沒",
+    "rule": "沒 is used to negate past actions or existence.\nExample: 我沒吃飯 = I didn’t eat"
+  },
+  {
+    "rule name": "Chinese Uses Aspect, Not Tense",
+    "rule": "Chinese does not use tense like English. Time is shown through time words and aspect markers."
+  },
+  {
+    "rule name": "Using 了 for Completed Actions",
+    "rule": "了 indicates completed actions.\nExample: 我吃了飯 = I ate / have eaten"
+  },
+  {
+    "rule name": "Time Words",
+    "rule": "Time expressions indicate when something happens.\nExamples: 今天 (today), 昨天 (yesterday), 明天 (tomorrow)"
+  },
+  {
+    "rule name": "Nouns",
+    "rule": "Nouns are people, places, or things.\nExamples: 人, 學校, 書"
+  },
+  {
+    "rule name": "Verbs",
+    "rule": "Verbs express actions or states.\nExamples: 吃, 去, 學習"
+  },
+  {
+    "rule name": "Adverb Placement",
+    "rule": "Adverbs come before the verb.\nExample: 我也去 = I also go"
+  },
+  {
+    "rule name": "Adjectives as Predicates",
+    "rule": "Adjectives can act like verbs in Chinese.\nExample: 她很高 = She is tall"
+  },
+  {
+    "rule name": "No Articles",
+    "rule": "Chinese does not have articles like 'a', 'an', or 'the'."
+  },
+  {
+    "rule name": "Measure Words",
+    "rule": "Numbers usually require measure words.\nExample: 一個蘋果 = one apple"
+  },
+  {
+    "rule name": "Chinese Number Structure",
+    "rule": "Numbers are regular and logical.\nExample: 十一 = 11, 二十 = 20"
+  },
+  {
+    "rule name": "Date Structure",
+    "rule": "Dates go from largest to smallest unit.\nExample: 2026年6月4日"
+  },
+  {
+    "rule name": "Location Expression",
+    "rule": "Use 在 to indicate location.\nExample: 我在學校 = I am at school"
+  },
+  {
+    "rule name": "Time Before Verb",
+    "rule": "Time words usually come before the verb.\nExample: 我今天學習中文 = I study Chinese today"
+  },
+  {
+    "rule name": "Basic Sentence with 是",
+    "rule": "Use 是 to link nouns.\nExample: 我是學生 = I am a student"
+  },
+  {
+    "rule name": "Basic Existence with 有",
+    "rule": "有 means 'have' or 'there is'.\nExample: 我有書 = I have a book"
+  },
+  {
+    "rule name": "Basic Plural with 們",
+    "rule": "們 is used to make plural for people.\nExample: 我們 = we, 他們 = they"
+  },
+  {
+    "rule name": "Basic Pronouns",
+    "rule": "Common pronouns include 我 (I), 你 (you), 他/她 (he/she), 我們 (we), 他們 (they)."
+  },
+  {
+    "rule name": "Basic Emphasis with 很",
+    "rule": "很 is often used as a neutral linker in adjective sentences.\nExample: 我很好 = I am fine"
+  },
+  {
+    "rule name": "Basic Yes/No vs WH Questions",
+    "rule": "Yes/no questions use 嗎, WH questions use question words.\nExample: 你是老師嗎？ vs 你是誰？"
+  }
+]
