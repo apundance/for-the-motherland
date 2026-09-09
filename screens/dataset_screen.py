@@ -201,6 +201,8 @@ class DatasetScreen(BaseScreen):
         root.bind("<Right>", next_card)
         root.bind("<Left>", prev_card)
         root.bind("<space>", flip_card)
+        root.bind("<Up>", flip_card)
+        root.bind("<Down>", flip_card)
 
     def on_show(self):
         self.bind_shortcuts()
